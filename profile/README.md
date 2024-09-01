@@ -1,12 +1,10 @@
-## Hi there 👋
+# 3rd semester programming repository
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Modules 
+<details>
+  <summary>Module 01 - .NET introduction</summary>
+  
+  - [Hello World](https://github.com/UCN-programming-3-jfk/HelloWorld)  
+  - [Command Line Calculator](https://github.com/UCN-programming-3-jfk/CommandLineCalculator)
+  
+</details>
