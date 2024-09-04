@@ -22,4 +22,6 @@
  - [RentalService](https://github.com/UCN-programming-3-jfk/RentalService)
  - [Generic Pair/Odd Pair](https://github.com/UCN-programming-3-jfk/GenericPair)
  - [Card game hand class](https://github.com/UCN-programming-3-jfk/CardGameHandClass)
+ - [Circular Collection](https://github.com/UCN-programming-3-jfk/CircularCollection)
+ - [Exception Handling](https://github.com/UCN-programming-3-jfk/ExceptionHandling)
 </details>
