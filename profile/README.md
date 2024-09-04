@@ -6,7 +6,7 @@
   
  - [Hello World](https://github.com/UCN-programming-3-jfk/HelloWorld)  
  - [Command Line Calculator](https://github.com/UCN-programming-3-jfk/CommandLineCalculator)  
- - [Challenge: Message Files](https://github.com/UCN-programming-3-jfk/MessageFilesChallenge)  
+ - [Challenge exercise: Message Files](https://github.com/UCN-programming-3-jfk/MessageFilesChallenge)  
 </details>
 <details>
 <summary>Module 02 - C# Fundamentals (1 of 2) - Objects and classes</summary>
@@ -20,4 +20,6 @@
  - [IComparable Exercise Starter](https://github.com/UCN-programming-3-jfk/ClassExercise)  
  - [IComparable Exercise Solution](https://github.com/UCN-programming-3-jfk/ClassExerciseSolution)  
  - [RentalService](https://github.com/UCN-programming-3-jfk/RentalService)
+ - [Generic Pair/Odd Pair](https://github.com/UCN-programming-3-jfk/GenericPair)
+ - 
 </details>
