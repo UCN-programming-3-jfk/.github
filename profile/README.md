@@ -1,6 +1,7 @@
 # 3rd semester programming repository
 
 ## Modules 
+**Note:** *Challenge exercises are marked with a '⭐'. These are for students who feel like a challenge* 😊
 <details>
 <summary>Module 01 - .NET introduction</summary>
   
