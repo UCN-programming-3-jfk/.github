@@ -21,5 +21,5 @@
  - [IComparable Exercise Solution](https://github.com/UCN-programming-3-jfk/ClassExerciseSolution)  
  - [RentalService](https://github.com/UCN-programming-3-jfk/RentalService)
  - [Generic Pair/Odd Pair](https://github.com/UCN-programming-3-jfk/GenericPair)
- - 
+ - [Card game hand class](https://github.com/UCN-programming-3-jfk/CardGameHandClass)
 </details>
