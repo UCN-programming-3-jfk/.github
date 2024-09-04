@@ -15,7 +15,7 @@
  - [Adventure game (⭐ including challenge)](https://github.com/UCN-programming-3-jfk/AdventureGame)
 </details>
 <details>
-<summary>Module 03 - C# Fundamentals (1 of 2) - Interfaces, Generics, Collections, Exceptions </summary>
+<summary>Module 03 - C# Fundamentals (2 of 2) - Interfaces, Generics, Collections, Exceptions </summary>
   
  - [IComparable Exercise Starter](https://github.com/UCN-programming-3-jfk/ClassExercise)  
  - [IComparable Exercise Solution](https://github.com/UCN-programming-3-jfk/ClassExerciseSolution)  
