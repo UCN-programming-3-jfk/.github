@@ -27,8 +27,9 @@
  - [Exception Handling](https://github.com/UCN-programming-3-jfk/ExceptionHandling)
  - [Challenge exercise: Bank Interface ⭐](https://github.com/UCN-programming-3-jfk/BankInterfaceExercise)
 </details>
-<summary>Module 04 - Using databases from .NET - DAO, transactions, concurrency</summary>
-  
+<details>
+  <summary>Module 04 - Using databases from .NET - DAO, transactions, concurrency</summary>
+
  - [Business solution](https://github.com/UCN-programming-3-jfk/BusinessSolution)  
 </details>
 
