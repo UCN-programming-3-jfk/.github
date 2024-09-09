@@ -12,7 +12,8 @@
 <details>
 <summary>Module 02 - C# Fundamentals (1 of 2) - Objects and classes</summary>
   
- - [Company Class Exercise](https://github.com/UCN-programming-3-jfk/ClassExercise)  
+ - [Company Class Exercise](https://github.com/UCN-programming-3-jfk/ClassExercise)
+ - [Value and reference types demonstration](https://github.com/UCN-programming-3-jfk/ValueAndReferenceTypeDemonstration)  
  - [Adventure game (including challenge ⭐)](https://github.com/UCN-programming-3-jfk/AdventureGame)
 </details>
 <details>
