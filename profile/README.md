@@ -26,7 +26,9 @@
  - [Card game hand class](https://github.com/UCN-programming-3-jfk/CardGameHandClass)
  - [Circular Collection](https://github.com/UCN-programming-3-jfk/CircularCollection)
  - [Exception Handling](https://github.com/UCN-programming-3-jfk/ExceptionHandling)
- - [Challenge exercise: Bank Interface ⭐](https://github.com/UCN-programming-3-jfk/BankInterfaceExercise)
+ - Challenge exercise: Bank Interface ⭐
+   - [Starter code](https://github.com/UCN-programming-3-jfk/BankInterfaceExerciseStarter)
+   - [Solution](https://github.com/UCN-programming-3-jfk/BankInterfaceExercise)
 </details>
 <details>
   <summary>Module 04 - Using databases from .NET - DAO, transactions, concurrency</summary>
