@@ -18,9 +18,9 @@
 </details>
 <details>
 <summary>Module 03 - C# Fundamentals (2 of 2) - Interfaces, Generics, Collections, Exceptions </summary>
-  
- - [IComparable Exercise Starter](https://github.com/UCN-programming-3-jfk/ClassExercise)  
- - [IComparable Exercise Solution](https://github.com/UCN-programming-3-jfk/ClassExerciseSolution)  
+ 
+ - [IComparable Exercise Starter]( https://github.com/UCN-programming-3-jfk/IComparableExerciseStarter)  
+ - [IComparable Exercise Solution](https://github.com/UCN-programming-3-jfk/IComparableExerciseSolution)  
  - [RentalService](https://github.com/UCN-programming-3-jfk/RentalService)
  - [Generic Pair/Odd Pair](https://github.com/UCN-programming-3-jfk/GenericPair)
  - [Card game hand class](https://github.com/UCN-programming-3-jfk/CardGameHandClass)
