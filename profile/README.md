@@ -38,6 +38,7 @@
 <details>
   <summary>Module 05 - RESTful services</summary>
 
- - [Account Web API](https://github.com/UCN-programming-3-jfk/AccountWebApi)  
+ - [Account Web API](https://github.com/UCN-programming-3-jfk/AccountWebApi)
+ - [Sample RestSharp based client app](https://github.com/UCN-programming-3-jfk/RestSharpTester)
 </details>
 
