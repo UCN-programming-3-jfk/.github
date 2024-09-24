@@ -41,4 +41,8 @@
  - [Account Web API](https://github.com/UCN-programming-3-jfk/AccountWebApi)
  - [Sample RestSharp based client app](https://github.com/UCN-programming-3-jfk/RestSharpTester)
 </details>
+<details>
+  <summary>Module 06 - Web basics</summary>
 
+ - [Solutions for exercises](https://github.com/UCN-programming-3-jfk/Web-basics-solutions)
+</details>
