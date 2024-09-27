@@ -46,3 +46,8 @@
 
  - [Solutions for exercises](https://github.com/UCN-programming-3-jfk/Web-basics-solutions)
 </details>
+<details>
+  <summary>Module 07 - ASP.NET MVC</summary>
+
+ - [Solution for the MovieSite exercise](https://github.com/UCN-programming-3-jfk/MovieSite)
+</details>
