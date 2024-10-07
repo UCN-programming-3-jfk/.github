@@ -51,3 +51,12 @@
 
  - [Solution for the MovieSite exercise](https://github.com/UCN-programming-3-jfk/MovieSite)
 </details>
+<details>
+  <summary>Module 08 - Windows Forms</summary>
+  
+- [Simple Winforms calculator](https://github.com/UCN-programming-3-jfk/Calculator)
+ 
+</details>
+
+
+
