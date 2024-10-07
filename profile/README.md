@@ -57,7 +57,7 @@
 - [Simple Winforms calculator](https://github.com/UCN-programming-3-jfk/Calculator)
 - [MessageBox.Show() and DialogResult](https://github.com/UCN-programming-3-jfk/MessageBoxShowAndDialogResult)
 - [Companies windows app](https://github.com/UCN-programming-3-jfk/CompaniesWindowsApp)
- [Challenge exercise: CoolEdit ⭐](https://github.com/UCN-programming-3-jfk/CoolEdit)
+- [Challenge exercise: CoolEdit ⭐](https://github.com/UCN-programming-3-jfk/CoolEdit)
 </details>
 
 
