@@ -59,6 +59,13 @@
 - [Companies windows app](https://github.com/UCN-programming-3-jfk/CompaniesWindowsApp)
 - [Challenge exercise: CoolEdit ⭐](https://github.com/UCN-programming-3-jfk/CoolEdit)
 </details>
+<details>
+  <summary>Module 09 - Advanced C#</summary>
 
+ - [Extension methods](https://github.com/UCN-programming-3-jfk/ExtensionMethods)
+ - [Lambda expressions](https://github.com/UCN-programming-3-jfk/SimpleLambdaExpressionsCalculator)
+ - [Lambda expressions windows forms with filter](https://github.com/UCN-programming-3-jfk/LambdaFilterWinForm)
+ - [Student LINQ](https://github.com/UCN-programming-3-jfk/StudentLinq)
+</details>
 
 
