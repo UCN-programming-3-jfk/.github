@@ -75,6 +75,8 @@
  - [Task parallel template and solution](https://github.com/UCN-programming-3-jfk/TaskParallel)
  - [Running code in new thread using tasks](https://github.com/UCN-programming-3-jfk/RunningCodeInNewThreadUsingTasks)
  - [Synchronized threads using tasks](https://github.com/UCN-programming-3-jfk/SynchronizedThreadsUsingTasks)
+ - [Asynchronous Web API](https://github.com/UCN-programming-3-jfk/AsyncWebApi)
+ - [Fully asynchronous Web API](https://github.com/UCN-programming-3-jfk/FullyAsyncWebApi)
 </details>
 
 
