@@ -67,5 +67,12 @@
  - [Lambda expressions windows forms with filter](https://github.com/UCN-programming-3-jfk/LambdaFilterWinForm)
  - [Student LINQ](https://github.com/UCN-programming-3-jfk/StudentLinq)
 </details>
+<details>
+  <summary>Module 10 - Concurrency, threads, async-await</summary>
+
+ - [Running code in new thread](https://github.com/UCN-programming-3-jfk/RunningCodeInNewThread)
+ - [Synchronized threads](https://github.com/UCN-programming-3-jfk/SynchronizedThreads)
+ - [Task parallel template and solution](https://github.com/UCN-programming-3-jfk/TaskParallel)
+</details>
 
 
