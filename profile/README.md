@@ -77,6 +77,7 @@
  - [Synchronized threads using tasks](https://github.com/UCN-programming-3-jfk/SynchronizedThreadsUsingTasks)
  - [Asynchronous Web API](https://github.com/UCN-programming-3-jfk/AsyncWebApi)
  - [Fully asynchronous Web API](https://github.com/UCN-programming-3-jfk/FullyAsyncWebApi)
+ - [Third party blocking calls ⭐](https://github.com/UCN-programming-3-jfk/ThirdPartyBlockingCalls)
 </details>
 
 
