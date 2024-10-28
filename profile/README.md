@@ -79,5 +79,9 @@
  - [Fully asynchronous Web API](https://github.com/UCN-programming-3-jfk/FullyAsyncWebApi)
  - [Third party blocking calls ⭐](https://github.com/UCN-programming-3-jfk/ThirdPartyBlockingCalls)
 </details>
-
-
+<details>
+  <summary>Module 11-13 - Miniproject BlogSharp</summary>
+ 
+ - [2024 fall semester](https://github.com/UCN-programming-3-jfk/BlogSharp2024)
+ - [Suggested solution](https://github.com/UCN-programming-3-jfk/BlogSharp)
+</details>
