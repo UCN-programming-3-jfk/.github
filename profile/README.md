@@ -31,36 +31,7 @@
    - [Solution](https://github.com/UCN-programming-3-jfk/BankInterfaceExercise)
 </details>
 <details>
-  <summary>Module 04 - Using databases from .NET - DAO, transactions, concurrency</summary>
-
- - [Business solution](https://github.com/UCN-programming-3-jfk/BusinessSolution)  
-</details>
-<details>
-  <summary>Module 05 - RESTful services</summary>
-
- - [Account Web API](https://github.com/UCN-programming-3-jfk/AccountWebApi)
- - [Sample RestSharp based client app](https://github.com/UCN-programming-3-jfk/RestSharpTester)
-</details>
-<details>
-  <summary>Module 06 - Web basics</summary>
-
- - [Solutions for exercises](https://github.com/UCN-programming-3-jfk/Web-basics-solutions)
-</details>
-<details>
-  <summary>Module 07 - ASP.NET MVC</summary>
-
- - [Solution for the MovieSite exercise](https://github.com/UCN-programming-3-jfk/MovieSite)
-</details>
-<details>
-  <summary>Module 08 - Windows Forms</summary>
-  
-- [Simple Winforms calculator](https://github.com/UCN-programming-3-jfk/Calculator)
-- [MessageBox.Show() and DialogResult](https://github.com/UCN-programming-3-jfk/MessageBoxShowAndDialogResult)
-- [Companies windows app](https://github.com/UCN-programming-3-jfk/CompaniesWindowsApp)
-- [Challenge exercise: CoolEdit ⭐](https://github.com/UCN-programming-3-jfk/CoolEdit)
-</details>
-<details>
-  <summary>Module 09 - Advanced C#</summary>
+  <summary>Module 04 - Advanced C#</summary>
 
  - [Extension methods](https://github.com/UCN-programming-3-jfk/ExtensionMethods)
  - [Lambda expressions](https://github.com/UCN-programming-3-jfk/SimpleLambdaExpressionsCalculator)
@@ -68,7 +39,7 @@
  - [Student LINQ](https://github.com/UCN-programming-3-jfk/StudentLinq)
 </details>
 <details>
-  <summary>Module 10 - Concurrency, threads, async-await</summary>
+  <summary>Module 05 - Concurrency, threads, async-await</summary>
 
  - [Running code in new thread](https://github.com/UCN-programming-3-jfk/RunningCodeInNewThread)
  - [Synchronized threads](https://github.com/UCN-programming-3-jfk/SynchronizedThreads)
@@ -80,8 +51,38 @@
  - [Third party blocking calls ⭐](https://github.com/UCN-programming-3-jfk/ThirdPartyBlockingCalls)
 </details>
 <details>
-  <summary>Module 11-13 - Miniproject BlogSharp</summary>
+  <summary>Module 06 - Using databases from .NET - DAO, transactions, concurrency</summary>
+
+ - [Business solution](https://github.com/UCN-programming-3-jfk/BusinessSolution)  
+</details>
+<details>
+  <summary>Module 07 - RESTful services</summary>
+
+ - [Account Web API](https://github.com/UCN-programming-3-jfk/AccountWebApi)
+ - [Sample RestSharp based client app](https://github.com/UCN-programming-3-jfk/RestSharpTester)
+</details>
+<details>
+  <summary>Module 08 - Web basics</summary>
+
+ - [Solutions for exercises](https://github.com/UCN-programming-3-jfk/Web-basics-solutions)
+</details>
+<details>
+  <summary>Module 09 - ASP.NET MVC</summary>
+
+ - [Solution for the MovieSite exercise](https://github.com/UCN-programming-3-jfk/MovieSite)
+</details>
+
+<details>
+  <summary>Module 10-12 - Miniproject BlogSharp</summary>
  
  - [2024 fall semester](https://github.com/UCN-programming-3-jfk/BlogSharp2024)
  - [Suggested solution](https://github.com/UCN-programming-3-jfk/BlogSharp)
+</details>
+<details>
+  <summary>Module 13 - Windows Forms</summary>
+  
+- [Simple Winforms calculator](https://github.com/UCN-programming-3-jfk/Calculator)
+- [MessageBox.Show() and DialogResult](https://github.com/UCN-programming-3-jfk/MessageBoxShowAndDialogResult)
+- [Companies windows app](https://github.com/UCN-programming-3-jfk/CompaniesWindowsApp)
+- [Challenge exercise: CoolEdit ⭐](https://github.com/UCN-programming-3-jfk/CoolEdit)
 </details>
